@@ -1,0 +1,11 @@
+{
+  "student_id":"STU0001",
+  "attendance_pct":79.6,
+  "study_hours_per_day":0.4,
+  "assignments_completed":3,
+  "previous_score":54.2,
+  "internet_quality":"Average",
+  "course":"ME",
+  "final_score":11.0,
+  "passed":0
+}
